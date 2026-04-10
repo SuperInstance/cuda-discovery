@@ -2,7 +2,7 @@
 name = "cuda-discovery"
 version = "0.1.0"
 edition = "2021"
-description = "Agent capability discovery, peer finding, recommendation"
+description = "Agent capability discovery and peer finding"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/Lucineer/cuda-discovery"
 readme = "README.md"
@@ -11,3 +11,4 @@ categories = ["science"]
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
+
